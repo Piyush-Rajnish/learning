@@ -2,7 +2,9 @@
 here i am learning stuff
 # Hi
 hi
-git add 
-git commit -m "message"
-git status
+
+# git commands :-
+git add . \n
+git commit -m "message" \n
+git status \n
 git push origin main
