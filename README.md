@@ -4,7 +4,7 @@ here i am learning stuff
 hi
 
 # git commands :-
-git add . \n
-git commit -m "message" \n
-git status \n
+git add . <br>
+git commit -m "message" <br>
+git status <br>
 git push origin main
